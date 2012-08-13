@@ -1,0 +1,15 @@
+.cost{float:left;margin:15px 0 0 0;padding:0;}
+.small-rbutton-2 {padding-bottom:1px !important;float:left}
+/*input .small-rbutton-2{padding-left:3px; }*/
+.buy-btn, .footer-rate-control{margin:0 ;padding:0;}
+.display-table table{table-layout:fixed; width:488px;}
+.header td.project, .header td.rate, .header td.purchased{padding-bottom:10px !important;margin:0 !important;}
+.header table{table-layout:fixed; width:488px;}
+td.rate{margin:0 !important;padding:0 !important;}
+div.shopping-cart .header td.rate{padding-left:0px !important;}
+td.rate DIV.buy-btn input{float:left;}
+.quantity-field{margin-top:30px !important;} 
+td.purchased div.purchased-check{margin:33px 46px 33px 0px !important;}
+.footer-rate-control .buy-btn{float:left !important; margin:0 !important;}
+.footer-rate-control .buy-btn input{float:left !important;}
+#footer-sum {width:320px;} .footer-rate-control .buy-btn input{margin:16px 0 0 35px;}
