@@ -168,7 +168,6 @@ $(function () {
 
 	$('#send_comment, #send').fakeSubmit('#adminForm input[type="submit"]:first');
 	$('#reg_button').fakeSubmit('input.real_submit');
-	/**$('#choose_image').fakeSubmit('#photo_file');*/
 	/* /FAKE SUBMIT */
 
 	/* Аяксовое обновление фактов на главной странице */
@@ -620,6 +619,7 @@ $(function () {
 
 
 	/* Смена блоков с проектами на главной */
+	/*
 	$('div.sales-block div[class*="project-"]').hide();
 	$('div.sales-block div[class*="project-"]:first').show();
 	var totalProjectBlocks = $('div.sales-block div[class*="project-"]').size();
@@ -635,6 +635,7 @@ $(function () {
 	}
 
 	setInterval(sec, 5000); // использовать функцию
+	*/
 	/* Смена блоков с проектами на главной */
 
 
